@@ -1,0 +1,15 @@
+C:\Users\Kubra\OneDrive\Desktop\homework\Generic type\Generic Type ,Generic Collection\Generic Type ,Generic Collection\bin\Debug\net8.0\Generic Type ,Generic Collection.exe
+C:\Users\Kubra\OneDrive\Desktop\homework\Generic type\Generic Type ,Generic Collection\Generic Type ,Generic Collection\bin\Debug\net8.0\Generic Type ,Generic Collection.deps.json
+C:\Users\Kubra\OneDrive\Desktop\homework\Generic type\Generic Type ,Generic Collection\Generic Type ,Generic Collection\bin\Debug\net8.0\Generic Type ,Generic Collection.runtimeconfig.json
+C:\Users\Kubra\OneDrive\Desktop\homework\Generic type\Generic Type ,Generic Collection\Generic Type ,Generic Collection\bin\Debug\net8.0\Generic Type ,Generic Collection.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\Generic type\Generic Type ,Generic Collection\Generic Type ,Generic Collection\bin\Debug\net8.0\Generic Type ,Generic Collection.pdb
+C:\Users\Kubra\OneDrive\Desktop\homework\Generic type\Generic Type ,Generic Collection\Generic Type ,Generic Collection\obj\Debug\net8.0\Generic Type ,Generic Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubra\OneDrive\Desktop\homework\Generic type\Generic Type ,Generic Collection\Generic Type ,Generic Collection\obj\Debug\net8.0\Generic Type ,Generic Collection.AssemblyInfoInputs.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\Generic type\Generic Type ,Generic Collection\Generic Type ,Generic Collection\obj\Debug\net8.0\Generic Type ,Generic Collection.AssemblyInfo.cs
+C:\Users\Kubra\OneDrive\Desktop\homework\Generic type\Generic Type ,Generic Collection\Generic Type ,Generic Collection\obj\Debug\net8.0\Generic Type ,Generic Collection.csproj.CoreCompileInputs.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\Generic type\Generic Type ,Generic Collection\Generic Type ,Generic Collection\obj\Debug\net8.0\Generic Type ,Generic Collection.sourcelink.json
+C:\Users\Kubra\OneDrive\Desktop\homework\Generic type\Generic Type ,Generic Collection\Generic Type ,Generic Collection\obj\Debug\net8.0\Generic Type ,Generic Collection.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\Generic type\Generic Type ,Generic Collection\Generic Type ,Generic Collection\obj\Debug\net8.0\refint\Generic Type ,Generic Collection.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\Generic type\Generic Type ,Generic Collection\Generic Type ,Generic Collection\obj\Debug\net8.0\Generic Type ,Generic Collection.pdb
+C:\Users\Kubra\OneDrive\Desktop\homework\Generic type\Generic Type ,Generic Collection\Generic Type ,Generic Collection\obj\Debug\net8.0\Generic Type ,Generic Collection.genruntimeconfig.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\Generic type\Generic Type ,Generic Collection\Generic Type ,Generic Collection\obj\Debug\net8.0\ref\Generic Type ,Generic Collection.dll
